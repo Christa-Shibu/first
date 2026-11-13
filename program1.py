@@ -1,5 +1,5 @@
 print("hello world")
-print("hey")
+print("y")
 print("123")
 
 
